@@ -1,0 +1,116 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+h1 {
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  width: 751px;
+  height: 104px;
+  left: 355px;
+  top: 110px;
+
+  font-family: 'Antic Didone';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 114px;
+
+  color: #FFFFFF;
+
+
+}
+
+.texto-bemvindo {
+  position: absolute;
+  width: 831px;
+  height: 116px;
+  left: 39px;
+  top: 593px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+
+  color: #000000;
+}
+
+.texto-apresentacao {
+
+  position: absolute;
+  width: 804px;
+  height: 162px;
+  left: 39px;
+  top: 719px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: justify;
+
+  color: #545454;
+}
+
+.img-secundaria {
+  position: absolute;
+  width: 422px;
+  height: 417px;
+  left: 974px;
+  top: 521px;
+
+  border-radius: 125px;
+}
+
+.titulo-sobre {
+  position: absolute;
+  width: 278px;
+  height: 83px;
+  left: 581px;
+  top: 999px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 76px;
+
+  color: #419B6D;
+}
+
+.texto-principal {
+  position: absolute;
+  width: 1265px;
+  height: 150px;
+  left: 79px;
+  top: 1714px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: justify;
+
+  color: #545454;
+}
+
+.back-color {
+  background-color: #DCEDC8;
+  height: 230%;
+  margin-top: -50px;
+  margin-bottom: -100px;
+}
+
+.img-terceira {
+  position: absolute;
+  width: 737px;
+  height: 510px;
+  left: 363px;
+  top: 1173px;
+  border-radius: 50px;
+}

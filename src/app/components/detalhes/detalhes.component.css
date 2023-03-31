@@ -1,0 +1,267 @@
+.back-color {
+  background-color: #DCEDC8;
+  height: 250%;
+  margin-top: -50px;
+  margin-bottom: -100px;
+}
+
+h1 {
+  position: absolute;
+width: 427px;
+height: 104px;
+left: 357px;
+top: 196px;
+
+font-family: 'Antic Didone';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 114px;
+
+color: #FFFFFF;
+}
+
+.img-planta {
+  position: absolute;
+width: 738px;
+height: 492px;
+left: 351px;
+top: 500px;
+
+border-radius: 69px;
+}
+
+
+.img-sol {
+  position: absolute;
+width: 64px;
+height: 64px;
+left: 420px;
+top: 1051px;
+}
+
+.p-top {
+  position: absolute;
+width: 254px;
+height: 38px;
+left: 324px;
+top: 1127px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+
+color: #000000;
+}
+
+.p-down {
+  position: absolute;
+width: 142px;
+height: 35px;
+left: 387px;
+top: 1190px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: justify;
+
+color: #545454;
+
+}
+
+.img-germinacao {
+  position: absolute;
+width: 64px;
+height: 64px;
+left: 710px;
+top: 1051px;
+}
+
+
+.p-top-1 {
+  position: absolute;
+width: 187px;
+height: 38px;
+left: 648px;
+top: 1127px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: justify;
+
+color: #000000;
+}
+
+.p-down-1 {
+  position: absolute;
+width: 102px;
+height: 35px;
+left: 690px;
+top: 1190px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: justify;
+
+color: #545454;
+}
+
+.img-colheita {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  left: 946px;
+  top: 1044px;
+}
+
+
+.p-top-2 {
+  position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 917px;
+  top: 1127px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: justify;
+
+  color: #000000;
+
+}
+
+.p-down-2 {
+  position: absolute;
+width: 102px;
+height: 35px;
+left: 927px;
+top: 1190px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: justify;
+
+color: #545454;
+
+}
+
+.resumo {
+  position: absolute;
+width: 1046px;
+height: 191px;
+left: 197px;
+top: 1290px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 50px;
+text-align: justify;
+
+color: #000000;
+
+}
+
+.img-sol2 {
+position: absolute;
+width: 60px;
+height: 60px;
+left: 205px;
+top: 1552px;
+}
+
+.exposicaoResumo {
+  position: absolute;
+width: 1049px;
+height: 107px;
+left: 207px;
+top: 1613px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: justify;
+
+color: #545454;
+}
+
+.exposicao-nome {
+  position: absolute;
+width: 259px;
+height: 51px;
+left: 280px;
+top: 1560px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+
+color: #000000;
+}
+
+.img-agua {
+  position: absolute;
+width: 60px;
+height: 60px;
+left: 205px;
+top: 1800px;
+}
+
+.agua-nome {
+  position: absolute;
+width: 149px;
+height: 38px;
+left: 280px;
+top: 1813px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: justify;
+
+color: #000000;
+}
+
+.resumo-irrigacao {
+  position: absolute;
+width: 1041.87px;
+height: 177px;
+left: 214.13px;
+top: 1869px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: justify;
+
+color: #545454;
+
+}

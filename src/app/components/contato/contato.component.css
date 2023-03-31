@@ -1,0 +1,106 @@
+.back-color {
+  background-color: #DCEDC8;
+  height: 300%;
+  margin-top: -50px;
+  margin-bottom: -100px;
+}
+
+h1 {
+  position: absolute;
+width: 427px;
+height: 104px;
+left: 357px;
+top: 196px;
+
+font-family: 'Antic Didone';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 114px;
+
+color: #FFFFFF;
+}
+
+.texto-duvidas {
+  position: absolute;
+width: 599px;
+height: 103px;
+left: 57px;
+top: 748px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 40px;
+text-align: justify;
+
+color: #545454;
+}
+
+.img-contato {
+  position: absolute;
+width: 618px;
+height: 490px;
+left: 720px;
+top: 588px;
+border-radius: 42px;
+}
+
+.div-instagram {
+  position: absolute;
+width: 392px;
+height: 148px;
+left: 57px;
+top: 1177px;
+
+background: #A2E07C;
+border-radius: 32px;
+}
+
+.div-email {
+  position: absolute;
+  width: 323px;
+  height: 148px;
+  left: 540px;
+  top: 1177px;
+
+  background: #A2E07C;
+  border-radius: 32px;
+}
+
+
+.div-whatsapp {
+  position: absolute;
+width: 400px;
+height: 148px;
+left: 938px;
+top: 1177px;
+
+background: #A2E07C;
+border-radius: 32px;
+}
+
+.img-instagram {
+
+  margin-left: 24.5px;
+  margin-top: 9px;
+
+}
+
+.texto-instagram {
+  position: absolute;
+width: 199px;
+height: 52px;
+left: 170px;
+top: 40px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+text-align: justify;
+
+color: #000000;
+}

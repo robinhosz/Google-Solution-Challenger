@@ -1,0 +1,238 @@
+.back-color {
+  background-color: #DCEDC8;
+  height: 180%;
+  margin-top: -50px;
+  margin-bottom: -100px;
+}
+
+.input {
+  position: absolute;
+width: 865.22px;
+height: 78px;
+left: 231px;
+top: 557px;
+
+background: #FFFFFF;
+border-radius: 19px;
+}
+
+h1 {
+  position: absolute;
+width: 427px;
+height: 104px;
+left: 357px;
+top: 196px;
+
+font-family: 'Antic Didone';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 114px;
+
+color: #FFFFFF;
+}
+
+.planta1 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 234px;
+  top: 782px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+
+.planta2 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 744.33px;
+  top: 782px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta3 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 234px;
+  top: 1231px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta4 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 744.33px;
+  top: 1231px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta5 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 234px;
+  top: 1680px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta6 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 744.33px;
+  top: 1680px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta7 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 234px;
+  top: 2129px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+.planta8 {
+  position: absolute;
+  width: 462.33px;
+  height: 322px;
+  left: 744.33px;
+  top: 2129px;
+
+  background: #ACDB96;
+  border-radius: 34px;
+}
+
+
+.alface {
+  position: absolute;
+width: 105px;
+height: 42px;
+left: 170px;
+top: 250px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: justify;
+
+color: #0C6338;
+}
+
+.img-alface {
+  position: absolute;
+width: 343.19px;
+height: 191.18px;
+left: 60px;
+cursor: pointer;
+top: 50px;
+
+border-radius: 8px;
+}
+
+
+.morango {
+  position: absolute;
+width: 105px;
+height: 42px;
+left: 150px;
+top: 250px;
+
+font-family: 'Antic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: justify;
+
+color: #0C6338;
+}
+
+
+.img-morango {
+  position: absolute;
+width: 343.19px;
+height: 191.18px;
+left: 60px;
+cursor: pointer;
+top: 50px;
+
+border-radius: 8px;
+
+}
+
+.laranja {
+  position: absolute;
+  width: 105px;
+  height: 42px;
+  left: 170px;
+  top: 250px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: justify;
+
+  color: #0C6338;
+}
+
+.abobora {
+  position: absolute;
+  width: 105px;
+  height: 42px;
+  left: 150px;
+  top: 250px;
+
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: justify;
+
+  color: #0C6338;
+}
+
+.img-laranja {
+  position: absolute;
+  width: 343.19px;
+  height: 191.18px;
+  cursor: pointer;
+  left: 60px;
+  top: 50px;
+
+  border-radius: 8px;
+}
+
+.img-abobora {
+  position: absolute;
+  width: 343.19px;
+  height: 191.18px;
+  left: 60px;
+  top: 50px;
+  cursor: pointer;
+
+  border-radius: 8px;
+}
